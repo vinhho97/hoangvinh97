@@ -1,0 +1,184 @@
+label{
+	float:left;
+	width:100px;
+	color: black;
+}
+input{
+	margin-bottom:5px;
+}
+.error{
+	color:red;
+}
+.menu{
+	background:#0080ff;
+	height:30px; 
+}
+#ctdt{
+	text-align:center;
+	color: red;
+}
+td a{
+	text-align:center;
+}
+#ip{
+	background:#0080ff;
+	text-align: center;
+	color: white;
+	width: 296px;
+	height: 30px;
+}
+.txtmenu{
+	color:white;
+	text-align: center;
+}
+#btnimage {
+    height: 210px;
+    padding:0;
+    margin: 0;
+    width: 185px;
+    align: center;
+}
+
+#btnimage img {
+	align:center;
+    height: 210px;  
+    width: 180px;
+}
+.main-content{
+	background: #e4e4e4;
+	width:90%;
+	margin-left:5%
+}
+p label{
+	margin_lef:5px;
+}
+.formlogin{
+	margin_top:10px;
+}
+.menu_style{
+	height: 50px;
+	background: #0000a0;
+	border:1px solid #FFFFFF;
+}
+#colortext{
+	color:#FFFFFF;
+}
+.noidunggt{
+	margin-left:15%;
+	width:80%;
+	background: #FFFFFF;
+}
+.containere {
+   width: 960px;
+   border: 1px solid #333;
+   padding: 10px;
+}
+#sidebare {
+ width: 1000px;
+ height: 300px;
+ float: right;
+}
+
+
+
+
+
+.khung .nganh{
+	display: block;
+	padding-top: 	100%;
+	opacity:0.9;
+}
+.khung {
+	position:relative;
+	background-image: url(http://csc.edu.vn/template/frontend/images/bg.jpg);
+	margin:auto;
+	padding:30px 0px;
+	width:100%;
+	height:100%;
+	text-align:center;
+	background-size:cover;
+	background-position: bottom center;
+	
+}
+.khung .title {
+	position: absolute;
+	left:0%;
+	top:20%;
+	text-align: center;
+	width: 100%;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #FFF;
+	font-size: 20px;
+	padding: 30px;
+	line-height: 24px;	
+}
+
+.khung .canh-noi-dung {
+	padding: 0px;
+}
+.khung .nganh:hover {
+	opacity: 1;
+}
+.bieu-tuong {
+	width:10%;
+	margin-top:10px;
+}
+img {
+	border: 0 none;
+	max-width:100%;
+	vertical-align: middle;
+	
+}
+
+
+
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+#a1{
+	display: block;
+	opacity:0.5;
+}
+.b #a1:hover{
+	opacity: 1;
+}
+.b #a1 {
+    padding: 8px 8px 8px 32px;
+
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+.q {
+	opacity: 2;
+}
+
+
+
+.wrapper{
+  margin: 60px auto;
+  text-align: center;
+}
+h1{
+  margin-bottom: 1.25em;
+}
+#pagination-demo{
+  display: inline-block;
+  margin-bottom: 1.75em;
+}
+#pagination-demo li{
+  display: inline-block;
+}
+
+.page-content{
+  background: #eee;
+  display: inline-block;
+  padding: 10px;
+  width: 100%;
+  max-width: 660px;
+}

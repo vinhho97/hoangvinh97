@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/Test.jsp=UTF-8
+encoding//WebContent/TrangChu.jsp=UTF-8
+encoding//WebContent/View/Thongtin_KhoaHoc/ThietKeWeb.jsp=UTF-8
+encoding//WebContent/View/ThuKy/ThuKy_ThongTin.jsp=UTF-8
+encoding//src/Controller/servlet/Adminforward.java=UTF-8
+encoding//src/Controller/servlet/DangkyController.java=UTF-8
+encoding//src/Controller/servlet/GiangVienThongTinController.java=UTF-8
+encoding//src/Controller/servlet/GiangVien_DoiMatKhauContrller.java=UTF-8
+encoding//src/Controller/servlet/GiangVien_LichGiangDayController.java=UTF-8
+encoding//src/Controller/servlet/LoginServlet.java=UTF-8
+encoding//src/Controller/servlet/SuaKhoaHocController.java=UTF-8
+encoding//src/Controller/servlet/ThuKyDoiMatKhauController.java=UTF-8
+encoding//src/Controller/servlet/ThuKy_XetPheDuyetController.java=UTF-8
